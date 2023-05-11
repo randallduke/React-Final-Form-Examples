@@ -1,0 +1,29 @@
+{
+  "name": "react-final-form-with-yup",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "final-form": "4.20.9",
+    "react": "^18",
+    "react-dom": "18.2.0",
+    "react-final-form": "6.5.9",
+    "yup": "1.1.1"
+  },
+  "devDependencies": {
+    "typescript": "4.5.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
